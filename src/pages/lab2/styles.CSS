@@ -1,0 +1,11 @@
+div {
+    color: black;
+    font-size: 20px;
+    align-self: center;
+    border-style:dashed;
+    background-color: bisque;
+    border-radius: 35px;
+}
+body{
+    text-align: center
+}
