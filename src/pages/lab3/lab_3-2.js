@@ -16,6 +16,6 @@ document.addEventListener("DOMContentLoaded", () => {
         })
         .catch(error => {
             console.error('Ошибка:', error);
-            document.getElementById('valute-container').textContent = 'Не удалось загрузить данные о валютах.';
+            document.getElementById('valute-container').textContent = 'не смогли взломать.';
         });
 });
